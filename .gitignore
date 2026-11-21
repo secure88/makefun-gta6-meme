@@ -1,0 +1,9 @@
+out/
+node_modules/
+
+.env*
+*.pem
+*.key
+wallet.json
+id_rsa
+id_ed25519
